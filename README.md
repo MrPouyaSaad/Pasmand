@@ -1,6 +1,6 @@
-# demo
+# Pasmand
 
-A new Flutter project.
+Online platform for waste collection.
 
 ## Getting Started
 
